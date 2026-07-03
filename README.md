@@ -8,8 +8,10 @@ I'm solving problems daily to build strong logic and problem-solving skills in P
 
 📂 Structure
 
+
 Solutions are organized by difficulty level (kyu):
 
+```
 codewars-solutions/
 ├── 8kyu/
 ├── 7kyu/
@@ -18,6 +20,7 @@ codewars-solutions/
 ├── arrays/
 ├── loops/
 └── README.md
+```
 
 Each file is named after the problem and includes:
 
