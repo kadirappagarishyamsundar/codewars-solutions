@@ -8,8 +8,10 @@ I'm solving problems daily to build strong logic and problem-solving skills in P
 
 📂 Structure
 
+
 Solutions are organized by difficulty level (kyu):
 
+```
 codewars-solutions/
 ├── 8kyu/
 ├── 7kyu/
@@ -18,6 +20,7 @@ codewars-solutions/
 ├── arrays/
 ├── loops/
 └── README.md
+```
 
 Each file is named after the problem and includes:
 
@@ -37,9 +40,13 @@ Version control: Git & GitHub
 
 📈 Progress
 
-Kyu LevelProblems Solved8 kyu07 kyu06 kyu0
+| Kyu Level | Problems Solved |
+|-----------|------------------|
+| 8 kyu     | 14               |
+| 7 kyu     | 0                |
+| 6 kyu     | 0                |
 
-(Update this table weekly to track progress)
+
 
 🎯 Goal
 
@@ -48,5 +55,5 @@ Consistent daily practice → stronger logic building → interview-ready Python
 🔗 Connect
 
 
-CodeWars profile: [add your link]
-LinkedIn: [add your link]
+CodeWars profile: [https://www.codewars.com/users/Abdshyam]
+LinkedIn: [https://www.linkedin.com/in/kadirappagarishyamsundar1718/]
