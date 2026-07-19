@@ -42,9 +42,9 @@ Version control: Git & GitHub
 
 | Kyu Level | Problems Solved |
 |-----------|------------------|
-| 8 kyu     | 14               |
-| 7 kyu     | 0                |
-| 6 kyu     | 0                |
+| 8 kyu     | 28               |
+| 7 kyu     | 16               |
+| 6 kyu     | 4                |
 
 
 
